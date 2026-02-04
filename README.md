@@ -1,5 +1,5 @@
 # Academic Habit Tracker (LaTeX)
-
+   
 A clean, print-friendly LaTeX project for personal productivity.
 
 ## Files
